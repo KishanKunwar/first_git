@@ -1,5 +1,5 @@
-x = int(input("enter the first number"))
-y = int(input("enter the second number"))
+x = 5
+y = 10
 
 def swap(x,y):
     x,y = y,x
