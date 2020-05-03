@@ -6,5 +6,7 @@ def swap(x,y):
 
 swap(x,y)
 
+print("after swapping")
+
 print("first value is ")
 print("second value is ")
